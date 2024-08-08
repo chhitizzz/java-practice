@@ -1,3 +1,5 @@
+// 2. Write a program to swap the values of two variables without using a third variable. Print the values before and after swapping.
+
 public class Exercise2 {
     public static void main(String[] args) {
         int num1 = 14;
