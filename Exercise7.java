@@ -3,7 +3,6 @@
 import java.util.*;
 
 public class Exercise7 {
-
     static void reverse(Integer inti[]) {
         Collections.reverse(Arrays.asList(inti));
         System.out.println(Arrays.asList(inti));
