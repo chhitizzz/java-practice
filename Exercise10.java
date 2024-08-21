@@ -5,6 +5,8 @@ import java.util.Collections;
 
 public class Exercise10 {
     public static void main(String[] args) {
+        System.out.println("Arranging in alphabetical order: ");
+
         ArrayList <String> footballPlayers = new ArrayList<String>();
 
         // Adding elements to the ArrayList
@@ -17,6 +19,13 @@ public class Exercise10 {
         footballPlayers.add("Wayne Rooney");
         footballPlayers.add("Andres Iniesta");
         footballPlayers.add("Yaya Toure");
-        footballPlayers.add("Iker Casillas")
+        footballPlayers.add("Iker Casillas");
+
+        // Sorting the elements of the ArrayList
+        Collections.sort(footballPlayers);
+        for (String i : footballPlayers) {
+            System.out.println(i);
+        }
+
     }
 }

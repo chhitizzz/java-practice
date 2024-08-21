@@ -1,0 +1,13 @@
+--- Java Practice Questions ---
+
+1. Declare variables of different data types (byte, short, int, long, float, double, char, Boolean) and initialize them with values. Print these variables to the console.
+2. Write a program to swap the values of two variables without using a third variable. Print the values before and after swapping.
+3. Write a program that takes an integer input from the user and prints whether it is a prime number.
+4. Write a program that takes a year as input from the user and checks if it is a leap year.
+5. Write a program that prints the multiplication tables of a given number up to 10.
+6. Write a program to print all the prime numbers between 1 and 100.
+7. Write a program to reverse the elements of an array.
+8. Write a program to find the second largest number in the array of integers.
+9. Write a program that takes a string input from the user and counts the number of vowels in the string.
+10. Write a program that creates an 'ArrayList' of strings, adds some elements to it, and then sorts the elements in alphabetical order.
+11. Write a program that creates an 'ArrayList' of integers, removes duplicate elements, and then prints the unique elements.
