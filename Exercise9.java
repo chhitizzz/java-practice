@@ -7,6 +7,13 @@ public class Exercise9 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a word: ");
         String str = sc.next();
+        char[] c = str.toCharArray();
+        int vowel = 0;
 
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == 'a' || str.charAt(i) == 'e' || str.charAt(i) == 'i' || str.charAt(i) == 'o' || str.charAt(i) == 'u')
+                vowel++;
+        }
+        System.out.println("Vowels: " + vowel);
     }
 }
