@@ -11,5 +11,7 @@ public class Exercise11 {
         List<Integer> newList = list.stream().distinct().collect(Collectors.toList());
         Collections.sort(newList);
         System.out.println("ArrayList without duplicates: " + newList);
+
+        System.out.println("The unique elements are: " + newList);
     }
 }
