@@ -11,3 +11,4 @@
 9. Write a program that takes a string input from the user and counts the number of vowels in the string.
 10. Write a program that creates an 'ArrayList' of strings, adds some elements to it, and then sorts the elements in alphabetical order.
 11. Write a program that creates an 'ArrayList' of integers, removes duplicate elements, and then prints the unique elements.
+12. Write a program that uses a 'HashMap' to count the frequency of each character in a string.
