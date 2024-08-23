@@ -23,9 +23,6 @@ public class Exercise10 {
 
         // Sorting the elements of the ArrayList
         Collections.sort(footballPlayers);
-        for (String i : footballPlayers) {
-            System.out.println(i);
-        }
-
+        System.out.println(footballPlayers);
     }
 }
